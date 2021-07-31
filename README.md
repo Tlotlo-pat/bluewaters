@@ -40,6 +40,18 @@ detail and they can no longer be managed in isolation of each other.
  
 ## Short Description
 ### The Problem
+Dirty water is the world’s biggest health risk. Water that flows into rivers picks up toxic chemicals,
+dirt, trash and disease carrying organisms along the way. Our water sources lack basic protections
+from such, this vulnerability renders them susceptible to pollution and contamination. 
+Also, strengthening water security is essential for preventing and combatting covid-19 as the
+world is facing this pandemic. Measures to suppress the Covid-19 pandemic, including handwashing, self-isolating and lockdowns assume that societies, communities and households have
+sustainable access to acceptable amounts of adequate quality water. However, across rural areas
+in Botswana, water insecurity is increasing, with the poorest and most vulnerable particularly at
+risk. As the Covid-19 pandemic is still unfolding, it is not clear what the impact on developing
+countries or their water security will be. Consequently, there is a need to monitor how the pandemic
+unfolds and assimilate lessons learned. Therefore by measuring the toxicity of water in dams would
+ensure that quality water reaches appropriate stakeholders for use to tackle covid-19 also for
+healthy living as water is used on different needs of our daily lives.
 
 
 ## Demo Video

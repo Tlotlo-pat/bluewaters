@@ -54,6 +54,21 @@ ensure that quality water reaches appropriate stakeholders for use to tackle cov
 healthy living as water is used on different needs of our daily lives.
 
 ### How technology can help
+- Provide water quality reports of our dams
+- Weather monitoring
+- Idfentifying health risks brought by contaminants that may be found on water
+- Providing information through real time chat about water related issues  including waste water management.
+
+Since ecosystems can function at various levels of integrity and the need to protect water
+ecosystems, this makes room for the need to develop a monitoring system that influences decision
+making in respect to water resources.
+The application is built using Node Red, an IBM cloud service and The Weather Company
+technologies, the platform will provide water quality of streams or rivers that flow into Botswana
+Dams, also the platform provides a solution to tackle climate change by ensuring that we aware
+of the quality of water in our dams to understand the risks that may be brought by the water
+toxins found on our rivers. The toxins may affect the lives of humans and aquatic plants and
+animals. Weather forecast is featured in the platform, since temperature is one of the factors
+contributing to water quality it is imperative to forecast temperatures daily or weekly.
 
 ## Demo Video
 [![video](https://user-images.githubusercontent.com/51744364/127750135-4020be23-c750-44f7-a29e-72894979c0a3.PNG)](https://www.youtube.com/watch?v=_2jatHHtkWI)

@@ -33,6 +33,7 @@ water sources in Botswana.
 [![video](https://user-images.githubusercontent.com/51744364/127750135-4020be23-c750-44f7-a29e-72894979c0a3.PNG)](https://www.youtube.com/watch?v=_2jatHHtkWI)
 
 ## How it Works
+![blue waters architecture (2)](https://user-images.githubusercontent.com/51744364/127750268-e8c30b46-67ca-45fa-b376-68d519362fd7.png)
 
 ## Roadmap
 ![Roadmap](https://user-images.githubusercontent.com/51744364/127750236-c7868e19-88f4-41d3-b6df-7e25cd3e9d93.PNG)

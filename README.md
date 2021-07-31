@@ -16,7 +16,7 @@ monitoring systems need to be adopted that will give timely and up to date infor
 water sources in Botswana.
 
 ## Contents
-1. [How We Identified the problem](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#how-we-identified-our-problem)
+1. [How We Identified the problem](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#how-we-identified-the-problem)
 
 
 ## How We Identified the Problem

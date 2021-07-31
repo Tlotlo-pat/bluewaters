@@ -26,7 +26,7 @@ water sources in Botswana.
 
 ## How We Identified the Problem
 ![design](../main/design thinking.PNG)
-![design](../main/designthinking1.PNG)
+![design](../main/design thinking1.PNG)
  
 ## Short Description
 

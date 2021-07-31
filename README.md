@@ -46,3 +46,6 @@ water sources in Botswana.
 4. The Weather Company
 
 ## Authors
+- Tlotlo Patriot Kgotlafela; Software Developer
+- Pako Daniel Moatshe; Project Management
+- Kago Vincent Tshotlane; Web Developer

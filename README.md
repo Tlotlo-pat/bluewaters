@@ -26,6 +26,17 @@ water sources in Botswana.
 
 ## How We Identified the Problem
 ![design](https://user-images.githubusercontent.com/51744364/127749932-1a4e9fcd-e6a8-4f29-bff9-bff3543cbf95.jpg)
+
+Through design thinking process , we were able to brainstorm and come up with different ideas to tackle climate change
+in Clean Water and Sanitation Category. The screenshot above shows some of the ideas we had to fight climate change using cutting ede
+technology.
+Information sharing and or Monitoring of our climate is a factor that may help in creating a better world for the future generations to come.
+We decided to work on a solution to build a platform where information about our water sources will be shared and analysed.
+Much of the emphasis in water resource management has revolved around ensuring that users
+should have not only enough water but desirable water quality too. The issue of water quality can
+play a dominant role when the available water gets scarce and scarce. Water availability is only as
+good as the quality of that water. Therefore, both quantity and quality need to be considered in
+detail and they can no longer be managed in isolation of each other. 
  
 ## Short Description
 

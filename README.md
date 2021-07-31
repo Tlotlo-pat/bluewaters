@@ -25,8 +25,7 @@ water sources in Botswana.
 7. [Authors](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#authors)
 
 ## How We Identified the Problem
-![design](../main/design thinking.PNG)
-![design](../main/design thinking1.PNG)
+![design](https://user-images.githubusercontent.com/51744364/127749932-1a4e9fcd-e6a8-4f29-bff9-bff3543cbf95.jpg)
  
 ## Short Description
 

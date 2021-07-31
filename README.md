@@ -72,6 +72,8 @@ contributing to water quality it is imperative to forecast temperatures daily or
 
 ### Innovation
 ![innovation](https://user-images.githubusercontent.com/51744364/127751944-38222250-b7bc-451e-b8c4-c151bc635fee.jpg)
+The dasboard will provide water quality in dams and rivers, a map will show the dam or river accessed.The report will provide insights on toxins that may be found in water and take relevant decisions wether is safe for drinking.Also identify health risks associated with contaminants found in water, this will help in ensuring diseases 
+affecting a group of people in that particular region are identified and treated well in time.
 
 ## Demo Video
 [![video](https://user-images.githubusercontent.com/51744364/127750135-4020be23-c750-44f7-a29e-72894979c0a3.PNG)](https://www.youtube.com/watch?v=_2jatHHtkWI)

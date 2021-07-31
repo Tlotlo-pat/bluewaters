@@ -1,6 +1,6 @@
 # Blue Waters
 - *Website*: [click to view](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
-- *Dashboard*:[Click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
+- *Dashboard*: [click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
 
 ## What is Blue Waters
 

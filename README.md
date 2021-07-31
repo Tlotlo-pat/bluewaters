@@ -71,6 +71,7 @@ animals. Weather forecast is featured in the platform, since temperature is one 
 contributing to water quality it is imperative to forecast temperatures daily or weekly.
 
 ### Innovation
+![innovation](https://user-images.githubusercontent.com/51744364/127751944-38222250-b7bc-451e-b8c4-c151bc635fee.jpg)
 
 ## Demo Video
 [![video](https://user-images.githubusercontent.com/51744364/127750135-4020be23-c750-44f7-a29e-72894979c0a3.PNG)](https://www.youtube.com/watch?v=_2jatHHtkWI)

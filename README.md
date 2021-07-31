@@ -1,5 +1,6 @@
 # Blue Waters
 *Website*: [click to view](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
+*Dashboard*:[Click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
 
 ## What is Blue Waters
 
@@ -53,6 +54,8 @@ unfolds and assimilate lessons learned. Therefore by measuring the toxicity of w
 ensure that quality water reaches appropriate stakeholders for use to tackle covid-19 also for
 healthy living as water is used on different needs of our daily lives.
 
+*Learn more about the problem*:[Our Story](https://l.facebook.com/l.php?u=https%3A%2F%2Fstorymaps.arcgis.com%2Fstories%2Ff0752b39d7074adba1351b51dfbe713a%3Ffbclid%3DIwAR0H-9MmwnMYXnBxZ2V4Pf5JDACoCTZKqJ72tlOMAshqJNsrO2tl95KP2II&h=AT1rxklmTwShkDPLo9L0KrX2RLvkLZceV57HJpZYi3xmKN5Q3rBv3UIMiaHCGV9ZB05raLktANHv8jDfzlxUU467MUAcWw-1IWoyYssaWbAZNXy72ZCb5yq1A4QpnysGjmQY85Kf-bLuwO8)
+
 ### How technology can help
 - Provide water quality reports of our dams
 - Weather monitoring
@@ -88,6 +91,8 @@ affecting a group of people in that particular region are identified and treated
 6. The water quality api is integrated  with the dashboard to provide water quality reports of dams and rivers.
 7. Weather forecasts will provide forecasts for the user, The Weather Company API are integrated with the dashboard.
 8. The Web chat is liased with IBM Watson assistant to provide users with efficient user experience by providing answers regarding Clean Water, Water managemnet, Waster water.
+
+*Dashboard*:[Click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
 
 ## Roadmap
 ![Roadmap](https://user-images.githubusercontent.com/51744364/127750236-c7868e19-88f4-41d3-b6df-7e25cd3e9d93.PNG)

@@ -40,5 +40,9 @@ water sources in Botswana.
 
  
 ## IBM Cloud Services
+1. Node Red
+2. IBM Cloudant
+3. IBM Watson
+4. The Weather Company
 
 ## Authors

@@ -47,5 +47,5 @@ water sources in Botswana.
 
 ## Authors
 - Tlotlo Patriot Kgotlafela; Software Developer [*See Linkedin*](https://www.linkedin.com/in/tlotlopkgotlafela/)
-- Pako Daniel Moatshe; Project Management [*See Linkedin*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
-- Kago Vincent Tshotlane; Web Developer [*See Linkedin*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
+- Pako Daniel Moatshe; Project Management [*See Linkedin*](https://www.linkedin.com/in/pako-moatshe-94b93216a/)
+- Kago Vincent Tshotlane; Web Developer [*See Linkedin*]()

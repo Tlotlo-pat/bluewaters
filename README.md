@@ -17,12 +17,12 @@ water sources in Botswana.
 
 ## Contents
 1. [How We Identified the problem](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#how-we-identified-the-problem)
-2. [Short Description]()
-3. [Demo Video]()
-4. [How it Works]()
-5. [Roadmap]()
-6. [IBM Cloud Services]()
-7. [Authors]()
+2. [Short Description](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#short-description)
+3. [Demo Video](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#demo-video)
+4. [How it Works](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#how-it-works)
+5. [Roadmap](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#roadmap)
+6. [IBM Cloud Services](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#ibm-cloud-services)
+7. [Authors](https://github.com/Tlotlo-pat/bluewaters/blob/main/README.md#authors)
 
 ## How We Identified the Problem
  

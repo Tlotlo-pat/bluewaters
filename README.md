@@ -35,6 +35,8 @@ water sources in Botswana.
 ## How it Works
 
 ## Roadmap
+![Roadmap](https://user-images.githubusercontent.com/51744364/127750236-c7868e19-88f4-41d3-b6df-7e25cd3e9d93.PNG)
+
  
 ## IBM Cloud Services
 

@@ -15,3 +15,20 @@ scientific progression in Botswana and an efficient hub for systematic data coll
 monitoring systems need to be adopted that will give timely and up to date information regarding
 water sources in Botswana.
 
+## Contents
+
+
+
+## How We Identified our Problem
+ 
+## Short Description
+
+## Demo Video
+
+## How it Works
+
+## Roadmap
+ 
+## IBM Cloud Services
+
+## Authors

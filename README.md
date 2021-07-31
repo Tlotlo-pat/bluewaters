@@ -53,6 +53,7 @@ unfolds and assimilate lessons learned. Therefore by measuring the toxicity of w
 ensure that quality water reaches appropriate stakeholders for use to tackle covid-19 also for
 healthy living as water is used on different needs of our daily lives.
 
+### How technology can help
 
 ## Demo Video
 [![video](https://user-images.githubusercontent.com/51744364/127750135-4020be23-c750-44f7-a29e-72894979c0a3.PNG)](https://www.youtube.com/watch?v=_2jatHHtkWI)

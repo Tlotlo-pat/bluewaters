@@ -46,6 +46,6 @@ water sources in Botswana.
 4. The Weather Company
 
 ## Authors
-- Tlotlo Patriot Kgotlafela; Software Developer [*See Linkedin*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
+- Tlotlo Patriot Kgotlafela; Software Developer [*See Linkedin*](https://www.linkedin.com/in/tlotlopkgotlafela/)
 - Pako Daniel Moatshe; Project Management [*See Linkedin*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
 - Kago Vincent Tshotlane; Web Developer [*See Linkedin*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)

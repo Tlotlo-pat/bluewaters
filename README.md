@@ -75,7 +75,7 @@ contributing to water quality it is imperative to forecast temperatures daily or
 
 ### Innovation
 ![innovation](https://user-images.githubusercontent.com/51744364/127751944-38222250-b7bc-451e-b8c4-c151bc635fee.jpg)
-The dasboard will provide water quality in dams and rivers, a map will show the dam or river accessed.The report will provide insights on toxins that may be found in water and take relevant decisions wether is safe for drinking.Also identify health risks associated with contaminants found in water, this will help in ensuring diseases 
+The dashboard will provide water quality in dams and rivers, a map will show the dam or river accessed.The report will provide insights on toxins that may be found in water and take relevant decisions wether is safe for drinking.Also identify health risks associated with contaminants found in water, this will help in ensuring diseases 
 affecting a group of people in that particular region are identified and treated well in time.
 
 ## Demo Video
@@ -104,7 +104,7 @@ affecting a group of people in that particular region are identified and treated
    - Website
    - Web Chat
 2. The second phase :
-   - Use sensors to collect data and analsyse the data,Accumulation of technology assets in the form of laboratory testing facilities, measuring meters and information
+   - Use sensors to collect data and analyse the data,Accumulation of technology assets in the form of laboratory testing facilities, measuring meters and information
    - Graphical representation of data
 3. The last Phase :
    - Using AI technologies to predict water quality trends,

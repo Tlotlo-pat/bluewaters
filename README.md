@@ -59,7 +59,7 @@ healthy living as water is used on different needs of our daily lives.
 ### How technology can help
 - Provide water quality reports of our dams
 - Weather monitoring
-- Idfentifying health risks brought by contaminants that may be found on water
+- Identifying health risks brought by contaminants that may be found on water
 - Providing information through real time chat about water related issues  including waste water management.
 
 Since ecosystems can function at various levels of integrity and the need to protect water

@@ -35,7 +35,7 @@ Information sharing and or Monitoring of our climate is a factor that may help i
 We decided to work on a solution to build a platform where information about our water sources will be shared and analysed.
 Much of the emphasis in water resource management has revolved around ensuring that users
 should have not only enough water but desirable water quality too. The issue of water quality can
-play a dominant role when the available water gets scarce and scarce. Water availability is only as
+play a dominant role when the available water gets scarce. Water availability is only as
 good as the quality of that water. Therefore, both quantity and quality need to be considered in
 detail and they can no longer be managed in isolation of each other. 
  

@@ -119,3 +119,5 @@ affecting a group of people in that particular region are identified and treated
 - Tlotlo Patriot Kgotlafela; Software Developer [*See Linkedin*](https://www.linkedin.com/in/tlotlopkgotlafela/)
 - Pako Daniel Moatshe; Project Management [*See Linkedin*](https://www.linkedin.com/in/pako-moatshe-94b93216a/)
 - Kago Vincent Tshotlane; Web Developer [*See Linkedin*](https://www.linkedin.com/in/kago-vincent-tshotlane-943b89218/)
+
+![Alt](https://repobeats.axiom.co/api/embed/7b86112586dfa79803188d30dfa0420ade18b2fa.svg "Repobeats analytics image")

@@ -85,7 +85,7 @@ affecting a group of people in that particular region are identified and treated
 ![blue waters architecture (2)](https://user-images.githubusercontent.com/51744364/127750268-e8c30b46-67ca-45fa-b376-68d519362fd7.png)
 1. The website will be available online to provide information about Water management. [*View Website*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
 2. Web chat will provide assistant to users about questions and queries about water management .
-3. Water ana;ysts will be able to access the dashboard online. Which consists of 4 components; maps,dam level info, water quality insights and weather forecasts.
+3. Water analysts will be able to access the dashboard online. Which consists of 4 components; maps,dam level info, water quality insights and weather forecasts.
 4. The Esri map is connected with arcgis map api.
 5. The dam capacity information is stored in IBM Cloudant and displayed on the dashboard.
 6. The water quality api is integrated  with the dashboard to provide water quality reports of dams and rivers.

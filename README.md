@@ -92,14 +92,11 @@ affecting a group of people in that particular region are identified and treated
 7. Weather forecasts will provide forecasts for the user, The Weather Company API are integrated with the dashboard.
 8. The Web chat is liased with IBM Watson assistant to provide users with efficient user experience by providing answers regarding Clean Water, Water managemnet, Waster water.
 
-##The Hardware Architecture
-[![hardware]()](https://bluewatersbw.netlify.app/)
+## The Hardware Architecture
+![blue waters](https://user-images.githubusercontent.com/51744364/202300038-1d4125bd-19c8-408c-a928-454d930abdd9.jpg)
 
 
 *Dashboard*:[Click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
-
-## Roadmap
-![Roadmap](https://user-images.githubusercontent.com/51744364/127750236-c7868e19-88f4-41d3-b6df-7e25cd3e9d93.PNG)
 
 1. The first phase we built :
    - Water quality dashboard

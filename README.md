@@ -1,5 +1,5 @@
 # Blue Waters
-- *Website*: [click to view](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
+- *Website*: [click to view](https://bluewatersbw.netlify.app/)
 - *Dashboard*: [click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
 
 ## What is Blue Waters
@@ -79,11 +79,11 @@ The dashboard will provide water quality in dams and rivers, a map will show the
 affecting a group of people in that particular region are identified and treated well in time.
 
 ## Demo Video
-[![video](https://user-images.githubusercontent.com/51744364/127750135-4020be23-c750-44f7-a29e-72894979c0a3.PNG)](https://www.youtube.com/watch?v=_2jatHHtkWI)
+[![video](https://user-images.githubusercontent.com/51744364/202299452-0d086927-ee78-4ec2-819f-f2af5fd20a03.PNG)](https://www.youtube.com/watch?v=3Qpsg7iB6mk)
 
 ## How it Works
 ![blue waters architecture (2)](https://user-images.githubusercontent.com/51744364/127750268-e8c30b46-67ca-45fa-b376-68d519362fd7.png)
-1. The website will be available online to provide information about Water management. [*View Website*](https://bluewaters.s3.eu-de.cloud-object-storage.appdomain.cloud/index.html)
+1. The website will be available online to provide information about Water management. [*View Website*](https://bluewatersbw.netlify.app/)
 2. Web chat will provide assistant to users about questions and queries about water management .
 3. Water analysts will be able to access the dashboard online. Which consists of 4 components; maps,dam level info, water quality insights and weather forecasts.
 4. The Esri map is connected with arcgis map api.
@@ -91,6 +91,10 @@ affecting a group of people in that particular region are identified and treated
 6. The water quality api is integrated  with the dashboard to provide water quality reports of dams and rivers.
 7. Weather forecasts will provide forecasts for the user, The Weather Company API are integrated with the dashboard.
 8. The Web chat is liased with IBM Watson assistant to provide users with efficient user experience by providing answers regarding Clean Water, Water managemnet, Waster water.
+
+##The Hardware Architecture
+[![hardware]()](https://bluewatersbw.netlify.app/)
+
 
 *Dashboard*:[Click to view](https://bluewaterss.eu-gb.mybluemix.net/ui/)
 

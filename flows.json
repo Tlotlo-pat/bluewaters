@@ -1,0 +1,6091 @@
+[
+    {
+        "id": "2948861f7309f0eb",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "a794c7a642c3bcaa",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6fdee58a.f4591c",
+        "type": "tab",
+        "label": "Dashboard",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "282fafd4.df968",
+        "type": "tab",
+        "label": "PWS Dashboard",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "67991373.45438c",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "6ce9491a.789d9",
+        "type": "tab",
+        "label": "Botswana Dams",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "d65502b1.ee517",
+        "type": "ui_tab",
+        "name": "My Water Quality",
+        "icon": "thermometer",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b82da486.9fc8d8",
+        "type": "ui_group",
+        "name": "Signin",
+        "tab": "d65502b1.ee517",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "c35e46a8.b04ce8",
+        "type": "ui_group",
+        "name": "SensorData",
+        "tab": "d65502b1.ee517",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "4de9506d.e7364",
+        "type": "ui_group",
+        "name": "History",
+        "tab": "d65502b1.ee517",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "a439dfe6bfb06881",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#1272d9",
+                "baseFont": "Century Gothic,CenturyGothic,AppleGothic,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#5578e2",
+                "baseFont": "Century Gothic,CenturyGothic,AppleGothic,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#4B7930",
+                    "value": "#5578e2",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#5578e2",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#96aced",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#5578e2",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Century Gothic,CenturyGothic,AppleGothic,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Blue Waters",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "false",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "d103c0e0.6d535",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e99ad75c.beeb38",
+        "type": "ui_group",
+        "name": "Table",
+        "tab": "a0bd8cd4.e4ad4",
+        "order": 1,
+        "disp": true,
+        "width": "15",
+        "collapse": false
+    },
+    {
+        "id": "2ab5e690.46cd4a",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "9f8ef9c3.6780c8",
+        "type": "ui_group",
+        "name": "Water Quantity",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "4444a29.413135c",
+        "type": "ui_spacer",
+        "z": "6fdee58a.f4591c",
+        "name": "spacer",
+        "group": "9f8ef9c3.6780c8",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8a297570.be8a58",
+        "type": "ui_spacer",
+        "z": "6fdee58a.f4591c",
+        "name": "spacer",
+        "group": "9f8ef9c3.6780c8",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ede6a6c7.29d668",
+        "type": "ui_spacer",
+        "z": "6fdee58a.f4591c",
+        "name": "spacer",
+        "group": "9f8ef9c3.6780c8",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "12cb9671.e9566a",
+        "type": "ui_group",
+        "name": "Tables",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "e6b73d23.e2c39",
+        "type": "ui_group",
+        "name": "Botswana Rivers",
+        "tab": "d103c0e0.6d535",
+        "order": 1,
+        "disp": true,
+        "width": "19",
+        "collapse": false
+    },
+    {
+        "id": "40c6016a.860c7",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "d103c0e0.6d535",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "a0bd8cd4.e4ad4",
+        "type": "ui_tab",
+        "name": "Water Quantity",
+        "icon": "trending_up",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "5b59b015.ef8b3",
+        "type": "ui_group",
+        "name": "Dams Full Capacity",
+        "tab": "a0bd8cd4.e4ad4",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false
+    },
+    {
+        "id": "ccb16dcd.6974",
+        "type": "ui_tab",
+        "name": "Water Quality",
+        "icon": "verified_user",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "bd231110.019e",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "ccb16dcd.6974",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "2703293b.a25646",
+        "type": "ui_spacer",
+        "z": "6fdee58a.f4591c",
+        "name": "spacer",
+        "group": "e6b73d23.e2c39",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a91cd93c.4ca95",
+        "type": "ui_group",
+        "name": "PWS Queries",
+        "tab": "a105e68a.f1f57",
+        "order": 1,
+        "disp": true,
+        "width": 7,
+        "collapse": false
+    },
+    {
+        "id": "1bba4345.fa4d15",
+        "type": "ui_group",
+        "name": "Forecast",
+        "tab": "a105e68a.f1f57",
+        "order": 3,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "ada0ce32.b103c",
+        "type": "ui_group",
+        "name": "PWS Results",
+        "tab": "a105e68a.f1f57",
+        "order": 2,
+        "disp": true,
+        "width": 15,
+        "collapse": false
+    },
+    {
+        "id": "a105e68a.f1f57",
+        "type": "ui_tab",
+        "name": "Weather Dashboard",
+        "icon": "wi-wu-partlycloudy",
+        "order": 5,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fe9b4de4.dcd72",
+        "type": "ui_group",
+        "name": "Name list",
+        "tab": "da612906.998368",
+        "order": 1,
+        "disp": true,
+        "width": "15",
+        "collapse": false
+    },
+    {
+        "id": "da612906.998368",
+        "type": "ui_tab",
+        "name": "Main-PC",
+        "icon": "dashboard",
+        "order": 6,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "17e164ba.19890b",
+        "type": "ui_tab",
+        "name": "Test",
+        "icon": "dashboard",
+        "order": 7,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b027a936.134698",
+        "type": "ui_group",
+        "name": "User",
+        "tab": "17e164ba.19890b",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "f38370bd.48255",
+        "type": "ui_group",
+        "name": "Table",
+        "tab": "17e164ba.19890b",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "82941cb0.0ebd68",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 8,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ec723ee8.bf683",
+        "type": "ui_group",
+        "name": "User",
+        "tab": "82941cb0.0ebd68",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "f0ee50bd.7c28c8",
+        "type": "ui_group",
+        "name": "Table",
+        "tab": "82941cb0.0ebd68",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "d3dd8357.94cad8",
+        "type": "ui_group",
+        "name": "Show Maps",
+        "tab": null,
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "d1237508.f6f1f8",
+        "type": "ui_group",
+        "name": "Contaminants",
+        "tab": "4fae9226.9fa9cc",
+        "order": 3,
+        "disp": true,
+        "width": 10,
+        "collapse": false
+    },
+    {
+        "id": "cbfa935f.551c9",
+        "type": "ui_group",
+        "z": "6ce9491a.789d9",
+        "name": "Botswana Dams and Rivers",
+        "tab": "4fae9226.9fa9cc",
+        "order": 2,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "4fae9226.9fa9cc",
+        "type": "ui_tab",
+        "z": "6ce9491a.789d9",
+        "name": "Water Quality of Dams",
+        "icon": "fa-tint",
+        "order": 9,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fb63eae9.13c058",
+        "type": "ui_group",
+        "name": "Show Maps",
+        "tab": "4fae9226.9fa9cc",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "544bd2bb.13ff0c",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 2,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "a0861da7.440ec",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 3,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "4b410d7f.ce2f44",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 4,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "95dffcfc.9b53a",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 5,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "bb2cbacb.a91b88",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 6,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "cfefa3c2.69f5a",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 7,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "c3bb976f.2dacc8",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 8,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "ada62b44.368db8",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 9,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "a95b218e.e3f9e",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "de43f9b5.9f9e58",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 13,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "fb0fe718.32f948",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 14,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "26b80808.c15058",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 15,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "5b21330d.d2444c",
+        "type": "ui_spacer",
+        "z": "282fafd4.df968",
+        "name": "spacer",
+        "group": "ada0ce32.b103c",
+        "order": 16,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "ba693fed.4c01f8",
+        "type": "pwsapikey",
+        "name": ""
+    },
+    {
+        "id": "c95e3a1e.f957b8",
+        "type": "pwsapikey",
+        "name": ""
+    },
+    {
+        "id": "4da58462.7ddd1c",
+        "type": "comment",
+        "z": "2948861f7309f0eb",
+        "name": "Sensor Data Collection",
+        "info": "",
+        "x": 249.00000762939453,
+        "y": 544.0000019073486,
+        "wires": []
+    },
+    {
+        "id": "937e9201.0a617",
+        "type": "inject",
+        "z": "2948861f7309f0eb",
+        "name": "Timer",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 221.5,
+        "y": 621.0000095367432,
+        "wires": [
+            [
+                "ab530393.261bd"
+            ]
+        ]
+    },
+    {
+        "id": "c4e61034.b5ec2",
+        "type": "comment",
+        "z": "2948861f7309f0eb",
+        "name": "MQTT ? CoAP?",
+        "info": "Expecting data from the actaul sensors.",
+        "x": 396.50000762939453,
+        "y": 580.9999942779541,
+        "wires": []
+    },
+    {
+        "id": "ab530393.261bd",
+        "type": "function",
+        "z": "2948861f7309f0eb",
+        "name": "Decode MySensor Message",
+        "func": "\nvar mySensorsMessage = {}\nvar newPayload = {};\nvar timestamp = new Date();\n\nnewPayload.nodeId  =  3;\nnewPayload.type =  Math.floor( Math.random() * Math.floor(2));  // 0 or 1\nif ( newPayload.type === 0 /* temperature */ ) newPayload.value   =  Math.floor( Math.random() * Math.floor(30)) + 10; // 10 - 39\nelse newPayload.value   =  Math.floor( Math.random() * Math.floor(40)) + 40; // 40 - 79\n\nmsg.payload = newPayload; \n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 417.50000762939453,
+        "y": 622.0000171661377,
+        "wires": [
+            [
+                "1e3effb1.5ff58",
+                "d320c244.f24af"
+            ]
+        ]
+    },
+    {
+        "id": "1e3effb1.5ff58",
+        "type": "function",
+        "z": "2948861f7309f0eb",
+        "name": "Filter : temperature",
+        "func": "if (msg.payload.nodeId == 3 && msg.payload.type === 0) {\n    var msg;\n    msg.payload = msg.payload.value;\n    msg.topic = \"Temperature\"\n    return msg;\n}    ",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 634.5000534057617,
+        "y": 578.0000200271606,
+        "wires": [
+            [
+                "ef7cf0b4.332f5",
+                "38045480.64ec1c",
+                "328b09bd.9901c6",
+                "4381200b.380d3"
+            ]
+        ]
+    },
+    {
+        "id": "d320c244.f24af",
+        "type": "function",
+        "z": "2948861f7309f0eb",
+        "name": "Filter : humidity",
+        "func": "if (msg.payload.nodeId == 3 && msg.payload.type === 1) {\n    var msg;\n    msg.payload = msg.payload.value;\n    msg.topic = \"Humidity\"\n    return msg;\n}    ",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 620.5001068115234,
+        "y": 685.0000591278076,
+        "wires": [
+            [
+                "d4eaedd1.98978",
+                "38045480.64ec1c",
+                "328b09bd.9901c6"
+            ]
+        ]
+    },
+    {
+        "id": "38045480.64ec1c",
+        "type": "function",
+        "z": "2948861f7309f0eb",
+        "name": "Attention : temperature & humidity",
+        "func": "context.data = context.data || new Object();\n\nswitch (msg.topic) {\n    case \"Temperature\":\n        context.data.temperature = msg.payload;\n        msg = null;\n        break;\n    case \"Humidity\":\n        context.data.humidity = msg.payload;\n        msg = null;\n        break;\n    default:\n        msg = null;\n    \tbreak;\n\n}\n\nif(context.data.temperature !== null && context.data.humidity !== null && context.data.temperature !== undefined && context.data.humidity !== undefined) {\n\tmsgOut = \"\"; //new Object();\n    msgOut = \"Temerature : \" \n    msgOut += context.data.temperature.toString(); \n    msgOut+= \"°C - Humidity : \"; \n    msgOut+= context.data.humidity.toString();\n    msgOut+= \"%\";\n    context.data=null;\n    var msg = {};\n    msg.payload = msgOut;\n\treturn msg;\n} \n//else return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 880.4999923706055,
+        "y": 708.0000877380371,
+        "wires": [
+            [
+                "6d52854e.4e8d8c"
+            ]
+        ]
+    },
+    {
+        "id": "4381200b.380d3",
+        "type": "debug",
+        "z": "2948861f7309f0eb",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "x": 844.0590744018555,
+        "y": 674.6424465179443,
+        "wires": []
+    },
+    {
+        "id": "328b09bd.9901c6",
+        "type": "ui_chart",
+        "z": "2948861f7309f0eb",
+        "name": "History : Temperature & Humidity",
+        "group": "4de9506d.e7364",
+        "order": 1,
+        "width": "6",
+        "height": "9",
+        "label": "Temperature & Humidity",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "%H:%M",
+        "interpolate": "linear",
+        "nodata": "No Data Yet",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "80",
+        "removeOlder": "12",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": "",
+        "useOneColor": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 2,
+        "x": 927.5000305175781,
+        "y": 639.0001049041748,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "6d52854e.4e8d8c",
+        "type": "ui_text",
+        "z": "2948861f7309f0eb",
+        "group": "c35e46a8.b04ce8",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "Label Display",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1120.4999923706055,
+        "y": 707.0001277923584,
+        "wires": []
+    },
+    {
+        "id": "ef7cf0b4.332f5",
+        "type": "ui_gauge",
+        "z": "2948861f7309f0eb",
+        "name": "Gauge : Temperature",
+        "group": "c35e46a8.b04ce8",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperature DHT22",
+        "label": "MySensors v2",
+        "format": "{{value}}°C",
+        "min": 0,
+        "max": "50",
+        "colors": [
+            "#66ccff",
+            "#ff8000",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 884.5000076293945,
+        "y": 563.9999828338623,
+        "wires": []
+    },
+    {
+        "id": "d4eaedd1.98978",
+        "type": "ui_gauge",
+        "z": "2948861f7309f0eb",
+        "name": "Gauge : Humidity",
+        "group": "c35e46a8.b04ce8",
+        "order": 0,
+        "width": "0",
+        "height": "0",
+        "gtype": "gage",
+        "title": "Humidity DHT22",
+        "label": "MySensors v2",
+        "format": "{{value}}%",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#1a25ab",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 876.500072479248,
+        "y": 601.0000286102295,
+        "wires": []
+    },
+    {
+        "id": "2f3733a6.01119c",
+        "type": "ui_worldmap",
+        "z": "6fdee58a.f4591c",
+        "group": "e6b73d23.e2c39",
+        "order": 0,
+        "width": "0",
+        "height": "0",
+        "name": "",
+        "lat": "22",
+        "lon": "24",
+        "zoom": "0",
+        "layer": "Esri",
+        "cluster": "",
+        "maxage": "",
+        "usermenu": "hide",
+        "layers": "hide",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "true",
+        "coords": "none",
+        "showgrid": "false",
+        "allowFileDrop": "false",
+        "path": "https://botswana-geoportal-powered-by-esri-africa.hub.arcgis.com/datasets/5d2820802a7347c59d02481f71f52bf3_0/explore?location=-22.345640%2C24.679532%2C6.57",
+        "overlist": "DR,CO,RA,DN,HM",
+        "maplist": "OSMG,OSMC,EsriC,EsriS,EsriT,EsriO,EsriDG,NatGeo,UKOS,OpTop",
+        "x": 660,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "d2d665ce.c48898",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "887582a4.04a18",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 970,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "36bc66ae.8b41fa",
+        "type": "comment",
+        "z": "282fafd4.df968",
+        "name": "Query PWS Current Conditions / Observations for any Personal Weather Station",
+        "info": "",
+        "x": 320,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "7c258cf.19a1ef4",
+        "type": "comment",
+        "z": "282fafd4.df968",
+        "name": "Query Historical Data from PWS",
+        "info": "",
+        "x": 170,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "b7b794a8.d80fb8",
+        "type": "comment",
+        "z": "282fafd4.df968",
+        "name": "5 Day Forecast",
+        "info": "",
+        "x": 120,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "1a5eba9a.169b45",
+        "type": "comment",
+        "z": "282fafd4.df968",
+        "name": "Recent PWS Observations",
+        "info": "",
+        "x": 150,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "95f6a021.aa9ba8",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 870,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "cf262cff.8843e",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 610,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "4adddd56.4d9fc4",
+        "type": "ui_text_input",
+        "z": "282fafd4.df968",
+        "name": "",
+        "label": "Enter StationID",
+        "tooltip": "",
+        "group": "a91cd93c.4ca95",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "",
+        "topicType": "str",
+        "x": 120,
+        "y": 100,
+        "wires": [
+            [
+                "a41d8185.128c7"
+            ]
+        ]
+    },
+    {
+        "id": "a41d8185.128c7",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "StationID",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 390,
+        "y": 100,
+        "wires": [
+            [
+                "1d33165b.0656ea"
+            ]
+        ]
+    },
+    {
+        "id": "8fd9fd9d.76cff",
+        "type": "ui_button",
+        "z": "282fafd4.df968",
+        "name": "",
+        "group": "a91cd93c.4ca95",
+        "order": 2,
+        "width": 7,
+        "height": 1,
+        "passthru": false,
+        "label": "Current PWS Observations",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 160,
+        "y": 140,
+        "wires": [
+            [
+                "6e439dd2.a9fbc4"
+            ]
+        ]
+    },
+    {
+        "id": "6e439dd2.a9fbc4",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "Set twcparams",
+        "rules": [
+            {
+                "t": "set",
+                "p": "twcparams",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "twcparams.StationID",
+                "pt": "msg",
+                "to": "StationID",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 140,
+        "wires": [
+            [
+                "36df2040.dab0e8"
+            ]
+        ]
+    },
+    {
+        "id": "1d33165b.0656ea",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 570,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "7f93eff4.ad8d48",
+        "type": "ui_button",
+        "z": "282fafd4.df968",
+        "name": "",
+        "group": "1bba4345.fa4d15",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Today Forecast",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "x": 120,
+        "y": 660,
+        "wires": [
+            [
+                "27c10673.26a442"
+            ]
+        ]
+    },
+    {
+        "id": "7af5ad2e.7e20ec",
+        "type": "ui_button",
+        "z": "282fafd4.df968",
+        "name": "",
+        "group": "a91cd93c.4ca95",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "7 Day PWS Hourly Summary",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 160,
+        "y": 360,
+        "wires": [
+            [
+                "3cc00f08.79528"
+            ]
+        ]
+    },
+    {
+        "id": "9f3b16b0.6f231",
+        "type": "function",
+        "z": "282fafd4.df968",
+        "name": "Get HourlyAvgTemp",
+        "func": "if( typeof( msg.payload.observations) == 'undefined') {\n    return null;\n}\n\nvar HourlyAvgTempChart = [{\n    \"series\":[\"7 Day Hourly Summary\"],\n    \"data\":[[]],\n    \"labels\":[\"Hourly Avg Temp\"]\n}];\n\n\nfor( var i=0; i < msg.payload.observations.length; i++) {\n    AvgTemp = {\"x\":msg.payload.observations[i].epoch,\"y\":msg.payload.observations[i].imperial.tempAvg};\n    HourlyAvgTempChart[0].data[0].push(AvgTemp) ;\n}\n\nmsg.payload = HourlyAvgTempChart;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 660,
+        "y": 400,
+        "wires": [
+            [
+                "95f6a021.aa9ba8",
+                "785597bb.acbdf8"
+            ]
+        ]
+    },
+    {
+        "id": "785597bb.acbdf8",
+        "type": "ui_chart",
+        "z": "282fafd4.df968",
+        "name": "",
+        "group": "ada0ce32.b103c",
+        "order": 10,
+        "width": 12,
+        "height": 1,
+        "label": "7 Day PWS Hourly Avg Temp",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "x": 920,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "89db0f5c.801e58",
+        "type": "ui_date_picker",
+        "z": "282fafd4.df968",
+        "name": "",
+        "label": "Historical Date",
+        "group": "a91cd93c.4ca95",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "topic": "",
+        "topicType": "str",
+        "x": 120,
+        "y": 540,
+        "wires": [
+            [
+                "7890ac05.5252bc"
+            ]
+        ]
+    },
+    {
+        "id": "7890ac05.5252bc",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "Set twcparams",
+        "rules": [
+            {
+                "t": "set",
+                "p": "twcparams",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "twcparams.date",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "twcparams.StationID",
+                "pt": "msg",
+                "to": "StationID",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 320,
+        "y": 540,
+        "wires": [
+            [
+                "384cef20.42b128",
+                "9825a586.39c16"
+            ]
+        ]
+    },
+    {
+        "id": "9825a586.39c16",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 490,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "599bbba7.ab986c",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "Historical Date AvgTemp ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.observations[0].imperial.tempAvg",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 540,
+        "wires": [
+            [
+                "216575bf.741902",
+                "887582a4.04a18"
+            ]
+        ]
+    },
+    {
+        "id": "216575bf.741902",
+        "type": "ui_gauge",
+        "z": "282fafd4.df968",
+        "name": "",
+        "group": "a91cd93c.4ca95",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Historical Date AvgTemp",
+        "label": "F",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#0054ff",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1010,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "e5d07e30.329da",
+        "type": "inject",
+        "z": "282fafd4.df968",
+        "name": "Hourly refresh",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3600",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 700,
+        "wires": [
+            [
+                "27c10673.26a442"
+            ]
+        ]
+    },
+    {
+        "id": "5c5bc36.005563c",
+        "type": "function",
+        "z": "282fafd4.df968",
+        "name": "Narrative",
+        "func": "var Days = [];\nvar MyForecastStr;\nfor( var i=0; i < msg.payload.dayOfWeek.length; i++) {\n    MyForecastStr = msg.payload.dayOfWeek[i] +\" : \"+msg.payload.narrative[i];\n    Days.push(MyForecastStr)\n}\n\nreturn [{\"payload\":Days[0]},\n        {\"payload\":Days[1]},\n        {\"payload\":Days[2]},\n        {\"payload\":Days[3]},\n        {\"payload\":Days[4]},\n        {\"payload\":Days[5]}];",
+        "outputs": 6,
+        "noerr": 0,
+        "x": 300,
+        "y": 760,
+        "wires": [
+            [
+                "d2b0178b.fa37e8",
+                "c6f84647.c727"
+            ],
+            [
+                "d2b0178b.fa37e8",
+                "38c5e3a2.2f759c"
+            ],
+            [
+                "d2b0178b.fa37e8",
+                "e6eeebc9.faf3d"
+            ],
+            [
+                "d2b0178b.fa37e8",
+                "6061525a.e3fe14"
+            ],
+            [
+                "d2b0178b.fa37e8",
+                "54c87a53.d9ec64"
+            ],
+            [
+                "d2b0178b.fa37e8",
+                "2035f1f6.a56dbe"
+            ]
+        ]
+    },
+    {
+        "id": "fec4e447.6fa4d8",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 690,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "d2b0178b.fa37e8",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 530,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "c6f84647.c727",
+        "type": "ui_text",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "order": 3,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 510,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "38c5e3a2.2f759c",
+        "type": "ui_text",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "order": 5,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 510,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "e6eeebc9.faf3d",
+        "type": "ui_text",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "order": 7,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 510,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "6061525a.e3fe14",
+        "type": "ui_text",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "order": 9,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 510,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "54c87a53.d9ec64",
+        "type": "ui_text",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "order": 11,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 510,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "2035f1f6.a56dbe",
+        "type": "ui_text",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "order": 13,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 510,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "97fe9121.6dbc48",
+        "type": "inject",
+        "z": "282fafd4.df968",
+        "name": "",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 400,
+        "wires": [
+            [
+                "3cc00f08.79528"
+            ]
+        ]
+    },
+    {
+        "id": "eb564a5d.b01118",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "name": "Weather Icon Image1",
+        "order": 2,
+        "width": 2,
+        "height": 2,
+        "format": "<div style=\"display: flex;height: 100%;justify-content: center;align-items: center;\">\n<i class=\"fa-4x wi {{msg.payload}}\"></i>\n</div>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 1020,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8d8a0f4c.d53668",
+        "type": "debug",
+        "z": "282fafd4.df968",
+        "name": "",
+        "active": true,
+        "console": "false",
+        "complete": "payload",
+        "x": 990,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "77f061a6.a3dd7",
+        "type": "function",
+        "z": "282fafd4.df968",
+        "name": "Weather Icon",
+        "func": "// TWC forecast API suggests a Icon code to display with the narrative\n// Map the icon codes to Weather Lite icons. See\n// https://github.com/Paul-Reed/weather-icons-lite\nvar IconMapping=[ \"wi-darksky-tornado\", \"wi-hurricane\",\n\"wi-hurricane\",\"wi-owm-11d\",\"wi-owm-11d\",\n\"wi-wu-rain\",\"wi-wu-sleet\",\"wi-wu-sleet\",\"wi-wu-sleet\",\n\"wi-wu-rain\",\"wi-wu-chancesleet\",\"wi-wu-rain\",\"wi-wu-rain\",\n\"wi-wu-flurries\",\"wi-wu-flurries\",\"wi-wu-snow\",\"wi-wu-snow\",\n\"wi-wu-sleet\",\"wi-wu-sleet\",\"wi-sandstorm\",\"wi-wu-hazy\",\n\"wi-wu-hazy\",\"wi-wu-hazy\",\"wi-darksky-wind\",\"wi-darksky-wind\",\n\"wi-wu-sleet\",\"wi-wu-cloudy\",\"wi-wu-mostlycloudy\",\n\"wi-wu-mostlycloudy\",\"wi-wu-partlycloudy\",\"wi-wu-partlycloudy\",\n\"wi-wu-clear\",\"wi-wu-sunny\",\"wi-owm-02d\",\"wi-owm-02d\",\"wi-wu-rain\",\n\"wi-wu-sunny\",\"wi-darksky-thunderstorm\",\"wi-darksky-thunderstorm\",\"wi-wu-chancerain\",\n\"wi-owm-10d\",\"wi-wu-flurries\",\"wi-wu-snow\",\"wi-wu-snow\",\"wi-na\",\n\"wi-wu-chancerain\",\"wi-wu-snow\",\"wi-wu-tstorms\"];\n\n\nvar Icon=[];\nfor(i = 0; i<=msg.payload.daypart[0].iconCode.length; i+=2){\n    if( msg.payload.daypart[0].iconCode[i] !== null) {\n        Icon.push(IconMapping[msg.payload.daypart[0].iconCode[i]]);\n    } else {\n        // Evening half day? - use the alternate icon\n        Icon.push(IconMapping[msg.payload.daypart[0].iconCode[i+1]]);\n    }\n}\n\n//node.send({\"payload\":Icon})\nreturn [{\"payload\":Icon[0]},\n        {\"payload\":Icon[1]},\n        {\"payload\":Icon[2]},\n        {\"payload\":Icon[3]},\n        {\"payload\":Icon[4]},\n        {\"payload\":Icon[5]}];\n\n",
+        "outputs": 6,
+        "noerr": 0,
+        "x": 750,
+        "y": 760,
+        "wires": [
+            [
+                "8d8a0f4c.d53668",
+                "eb564a5d.b01118"
+            ],
+            [
+                "8d8a0f4c.d53668",
+                "71761249.14ae4c"
+            ],
+            [
+                "8d8a0f4c.d53668",
+                "e9c1cf4f.1efb3"
+            ],
+            [
+                "8d8a0f4c.d53668",
+                "95fe10b6.103008"
+            ],
+            [
+                "8d8a0f4c.d53668",
+                "159f2e1d.f12802"
+            ],
+            [
+                "8d8a0f4c.d53668",
+                "1c28ad07.583053"
+            ]
+        ]
+    },
+    {
+        "id": "71761249.14ae4c",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "name": "Weather Icon Image2",
+        "order": 4,
+        "width": 2,
+        "height": 2,
+        "format": "<div style=\"display: flex;height: 100%;justify-content: center;align-items: center;\">\n<i class=\"fa-4x wi {{msg.payload}}\"></i>\n</div>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 1020,
+        "y": 760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e9c1cf4f.1efb3",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "name": "Weather Icon Image3",
+        "order": 6,
+        "width": 2,
+        "height": 2,
+        "format": "<div style=\"display: flex;height: 100%;justify-content: center;align-items: center;\">\n<i class=\"fa-4x wi {{msg.payload}}\"></i>\n</div>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 1020,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "95fe10b6.103008",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "name": "Weather Icon Image4",
+        "order": 8,
+        "width": 2,
+        "height": 2,
+        "format": "<div style=\"display: flex;height: 100%;justify-content: center;align-items: center;\">\n<i class=\"fa-4x wi {{msg.payload}}\"></i>\n</div>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 1020,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "159f2e1d.f12802",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "name": "Weather Icon Image5",
+        "order": 10,
+        "width": 2,
+        "height": 2,
+        "format": "<div style=\"display: flex;height: 100%;justify-content: center;align-items: center;\">\n<i class=\"fa-4x wi {{msg.payload}}\"></i>\n</div>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 1020,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1c28ad07.583053",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "1bba4345.fa4d15",
+        "name": "Weather Icon Image6",
+        "order": 12,
+        "width": 2,
+        "height": 2,
+        "format": "<div style=\"display: flex;height: 100%;justify-content: center;align-items: center;\">\n<i class=\"fa-4x wi {{msg.payload}}\"></i>\n</div>",
+        "storeOutMessages": false,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 1020,
+        "y": 920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3cc00f08.79528",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "Set twcparams",
+        "rules": [
+            {
+                "t": "set",
+                "p": "twcparams",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "twcparams.StationID",
+                "pt": "msg",
+                "to": "StationID",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 400,
+        "y": 360,
+        "wires": [
+            [
+                "e4380e97.48866"
+            ]
+        ]
+    },
+    {
+        "id": "7bbfbf86.8f9658",
+        "type": "comment",
+        "z": "282fafd4.df968",
+        "name": "One time - Add Map to Dashboard",
+        "info": "",
+        "x": 180,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "79b761e2.440c78",
+        "type": "inject",
+        "z": "282fafd4.df968",
+        "name": "Init WorldMap",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 230,
+        "y": 260,
+        "wires": [
+            [
+                "982eedd1.509c58",
+                "8285c7b2.4d23b8"
+            ]
+        ]
+    },
+    {
+        "id": "d54f125f.e6a1a",
+        "type": "ui_template",
+        "z": "282fafd4.df968",
+        "group": "ada0ce32.b103c",
+        "name": "Embedded Map",
+        "order": 1,
+        "width": 12,
+        "height": 8,
+        "format": "<div ng-bind-html=\"msg.payload | trusted\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "templateScope": "local",
+        "x": 660,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c6e23e3.7c6be4",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "Default map",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"layer\":\"OSM\",\"lat\":41.2417,\"lon\":-99.3829,\"zoom\":4,\"addtoheatmap\":true,\"autopan\":true,\"clear\":\"OSM\",\"map\":{\"name\":\"OSM\",\"url\":\"http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png\",\"opt\":{\"MaxZoom\":18,\"attribution\":\"&copy; OpenStreetMap\"}}}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 220,
+        "wires": [
+            [
+                "b1cccbd5.a704d8"
+            ]
+        ]
+    },
+    {
+        "id": "982eedd1.509c58",
+        "type": "delay",
+        "z": "282fafd4.df968",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "outputs": 1,
+        "x": 420,
+        "y": 220,
+        "wires": [
+            [
+                "c6e23e3.7c6be4"
+            ]
+        ]
+    },
+    {
+        "id": "b7babaaf.bb0448",
+        "type": "function",
+        "z": "282fafd4.df968",
+        "name": "Plot on Map",
+        "func": "if( typeof(msg.payload.observations) == 'undefined') {\n    return null;\n}\n\nvar weather = {};\nif( typeof( msg.payload.observations[0].metric) != 'undefined') {\n    weather = msg.payload.observations[0].metric;\n    delete msg.payload.observations[0].metric\n} else if( typeof( msg.payload.observations[0].imperial) != 'undefined') {\n    weather = msg.payload.observations[0].imperial;\n    delete msg.payload.observations[0].imperial\n} else if( typeof( msg.payload.observations[0].uk_hybrid) != 'undefined') {\n    weather = msg.payload.observations[0].uk_hybrid;\n    delete msg.payload.observations[0].uk_hybrid\n}\nfor (const [key, value] of Object.entries(weather)) {\n    // Move the key/value pairs up so they appear nicely in the marker popup\n    msg.payload[key]=value;\n}\n\nfor (const [key, value] of Object.entries(msg.payload.observations[0])) {\n    // Move the key/value pairs up so they appear nicely in the marker popup\n    msg.payload[key]=value;\n}\ndelete msg.payload.observations;\n\n\nmsg.payload.name = msg.twcparams.StationID;\nmsg.payload.icon = \"globe\";\nif( msg.payload.temp > 60 ) {\n    msg.payload.iconColor = \"red\";\n} else {\n    msg.payload.iconColor = \"orange\";\n}\n\nmsg.payload.command = { zoom:6, \n                            \"lat\":msg.payload.lat,\n                            \"lon\":msg.payload.lon,\n                            autopan:true };\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 810,
+        "y": 180,
+        "wires": [
+            [
+                "b1cccbd5.a704d8"
+            ]
+        ]
+    },
+    {
+        "id": "8285c7b2.4d23b8",
+        "type": "change",
+        "z": "282fafd4.df968",
+        "name": "Inject /weathermap",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "<iframe src=\"/weathermap\" height=412px width=624px ></iframe>",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 260,
+        "wires": [
+            [
+                "d54f125f.e6a1a"
+            ]
+        ]
+    },
+    {
+        "id": "b3dc9bd1.1c29f",
+        "type": "function",
+        "z": "282fafd4.df968",
+        "name": "Build Table",
+        "func": "if( typeof(msg.payload.observations) == 'undefined') {\n    return null;\n}\n\nvar TableArray = [];\nfor (const [key, value] of Object.entries(msg.payload.observations[0])) {\n  var TableEntry = {};\n  TableEntry.observations = key ;\n  TableEntry.results = value ;\n  TableArray.push( TableEntry );\n}\n\nvar weather = {};\nif( typeof( msg.payload.observations[0].metric) != 'undefined') {\n    weather = msg.payload.observations[0].metric;\n} else if( typeof( msg.payload.observations[0].imperial) != 'undefined') {\n    weather = msg.payload.observations[0].imperial;\n} else if( typeof( msg.payload.observations[0].uk_hybrid) != 'undefined') {\n    weather = msg.payload.observations[0].uk_hybrid;\n}    \n   \nfor (const [key, value] of Object.entries(weather)) {\n    var TableEntry = {};\n    TableEntry.observations = key ;\n    TableEntry.results = value ;\n    TableArray.push( TableEntry );\n}\n\nmsg.payload = TableArray;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 810,
+        "y": 140,
+        "wires": [
+            [
+                "a74bb8bb.139fc8"
+            ]
+        ]
+    },
+    {
+        "id": "36df2040.dab0e8",
+        "type": "pws-observations",
+        "z": "282fafd4.df968",
+        "name": "",
+        "stationid": "",
+        "units": "m",
+        "apikey": "c95e3a1e.f957b8",
+        "x": 590,
+        "y": 140,
+        "wires": [
+            [
+                "d2d665ce.c48898",
+                "b7babaaf.bb0448",
+                "b3dc9bd1.1c29f"
+            ]
+        ]
+    },
+    {
+        "id": "384cef20.42b128",
+        "type": "pws-historical",
+        "z": "282fafd4.df968",
+        "name": "",
+        "stationid": "",
+        "units": "m",
+        "date": "",
+        "range": "daily",
+        "apikey": "ba693fed.4c01f8",
+        "x": 520,
+        "y": 540,
+        "wires": [
+            [
+                "599bbba7.ab986c"
+            ]
+        ]
+    },
+    {
+        "id": "27c10673.26a442",
+        "type": "pws-forecast",
+        "z": "282fafd4.df968",
+        "name": "",
+        "units": "m",
+        "locationtype": "postalKey",
+        "location": "07450:US",
+        "lang": "en-US",
+        "apikey": "ba693fed.4c01f8",
+        "x": 400,
+        "y": 660,
+        "wires": [
+            [
+                "5c5bc36.005563c",
+                "fec4e447.6fa4d8",
+                "77f061a6.a3dd7"
+            ]
+        ]
+    },
+    {
+        "id": "e4380e97.48866",
+        "type": "pws-7day-hourly",
+        "z": "282fafd4.df968",
+        "name": "",
+        "stationid": "",
+        "units": "m",
+        "apikey": "ba693fed.4c01f8",
+        "x": 430,
+        "y": 400,
+        "wires": [
+            [
+                "cf262cff.8843e",
+                "9f3b16b0.6f231"
+            ]
+        ]
+    },
+    {
+        "id": "a74bb8bb.139fc8",
+        "type": "ui_table",
+        "z": "282fafd4.df968",
+        "group": "ada0ce32.b103c",
+        "name": "",
+        "order": 12,
+        "width": 12,
+        "height": 4,
+        "columns": [
+            {
+                "field": "observations",
+                "title": "Observations",
+                "width": "50%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "results",
+                "title": "Results",
+                "width": "48%",
+                "align": "right",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 0,
+        "cts": false,
+        "x": 970,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "b1cccbd5.a704d8",
+        "type": "worldmap",
+        "z": "282fafd4.df968",
+        "name": "",
+        "lat": "",
+        "lon": "",
+        "zoom": "",
+        "layer": "",
+        "cluster": "",
+        "maxage": "",
+        "usermenu": "show",
+        "layers": "show",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "false",
+        "coords": "none",
+        "path": "/weathermap",
+        "x": 990,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "5c4bbb88.8053c4",
+        "type": "inject",
+        "z": "67991373.45438c",
+        "name": "data input",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"user\":{\"firstname\":\"Thomas\",\"lastname\":\"Suedbroecker\",\"country\":\"Germany\"}}",
+        "payloadType": "json",
+        "x": 140,
+        "y": 40,
+        "wires": [
+            [
+                "5b424efd.8ef3f",
+                "5a3a0d2a.560604"
+            ]
+        ]
+    },
+    {
+        "id": "5b424efd.8ef3f",
+        "type": "debug",
+        "z": "67991373.45438c",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 690,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "5a3a0d2a.560604",
+        "type": "cloudant out",
+        "z": "67991373.45438c",
+        "name": "",
+        "cloudant": "",
+        "database": "the-waters",
+        "service": "bluewaters-cloudant-1627415464524-58191",
+        "payonly": true,
+        "operation": "insert",
+        "x": 510,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "3a85df5f.1c0d9",
+        "type": "inject",
+        "z": "67991373.45438c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 120,
+        "wires": [
+            [
+                "4cd96d48.0777f4"
+            ]
+        ]
+    },
+    {
+        "id": "4cd96d48.0777f4",
+        "type": "cloudant in",
+        "z": "67991373.45438c",
+        "name": "",
+        "cloudant": "",
+        "database": "the-waters",
+        "service": "bluewaters-cloudant-1627415464524-58191",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 370,
+        "y": 140,
+        "wires": [
+            [
+                "a3d0c3ae.9adf7",
+                "77383306.e9025c"
+            ]
+        ]
+    },
+    {
+        "id": "a3d0c3ae.9adf7",
+        "type": "debug",
+        "z": "67991373.45438c",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 570,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "42e8817f.9d372",
+        "type": "inject",
+        "z": "67991373.45438c",
+        "name": "search Firstname",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"theFirstname\":\"T*\",\"limit\":\"200\"}",
+        "payloadType": "json",
+        "x": 150,
+        "y": 240,
+        "wires": [
+            [
+                "8645f55.b95ac08"
+            ]
+        ]
+    },
+    {
+        "id": "abef5280.1714c",
+        "type": "inject",
+        "z": "67991373.45438c",
+        "name": "search Lastname",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"theLastname\":\"S*\",\"limit\":\"200\"}",
+        "payloadType": "json",
+        "x": 150,
+        "y": 320,
+        "wires": [
+            [
+                "8645f55.b95ac08"
+            ]
+        ]
+    },
+    {
+        "id": "f4c9aa3b.a75178",
+        "type": "inject",
+        "z": "67991373.45438c",
+        "name": "search Country",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"theContry\":\"G*\",\"limit\":\"200\"}",
+        "payloadType": "json",
+        "x": 150,
+        "y": 400,
+        "wires": [
+            [
+                "8645f55.b95ac08"
+            ]
+        ]
+    },
+    {
+        "id": "8645f55.b95ac08",
+        "type": "cloudant in",
+        "z": "67991373.45438c",
+        "name": "",
+        "cloudant": "",
+        "database": "the-waters",
+        "service": "bluewaters-cloudant-1627415464524-58191",
+        "search": "_idx_",
+        "design": "_d_searchindex",
+        "index": "_searchindex",
+        "x": 630,
+        "y": 260,
+        "wires": [
+            [
+                "8e8be03f.73bec",
+                "77383306.e9025c"
+            ]
+        ]
+    },
+    {
+        "id": "8e8be03f.73bec",
+        "type": "debug",
+        "z": "67991373.45438c",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 730,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "f28b7a04.986b08",
+        "type": "ui_form",
+        "z": "67991373.45438c",
+        "name": "",
+        "label": "Insert a new user",
+        "group": "2ab5e690.46cd4a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Firstname",
+                "value": "firstname",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Lastname",
+                "value": "lastname",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Country",
+                "value": "country",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "firstname": "",
+            "lastname": "",
+            "country": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "x": 150,
+        "y": 460,
+        "wires": [
+            [
+                "925a9c82.65551"
+            ]
+        ]
+    },
+    {
+        "id": "925a9c82.65551",
+        "type": "function",
+        "z": "67991373.45438c",
+        "name": "",
+        "func": "var data = {};\ndata.user = msg.payload;\nmsg.payload = data;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 480,
+        "wires": [
+            [
+                "8e8be03f.73bec",
+                "5a3a0d2a.560604"
+            ]
+        ]
+    },
+    {
+        "id": "77383306.e9025c",
+        "type": "function",
+        "z": "67991373.45438c",
+        "name": "",
+        "func": "if (msg.payload.errors !== undefined ){\n    if (msg.payload.errors[0] !== undefined ){\n        // do nothing\n    }\n} else {\n    var userstemp  = [];\n    userstemp = msg.payload;\n\n    var users = [];\n    count =  userstemp.length;\n\n    var user = {};\n    for (var i=0; i<count; i++){\n\n       if( userstemp[i] !== undefined) {\n         user.firstname = userstemp[i].user.firstname;\n         user.lastname = userstemp[i].user.lastname;\n         user.country = userstemp[i].user.country;\n         users.push(user);\n         user = {};\n       } else {\n           i = count;\n       }\n    }\n\n    msg.payload = users;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 480,
+        "wires": [
+            [
+                "eb98f0eb.7c304",
+                "65dc148d.e4d58c"
+            ]
+        ]
+    },
+    {
+        "id": "65dc148d.e4d58c",
+        "type": "debug",
+        "z": "67991373.45438c",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 770,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "af59cb26.5b1e68",
+        "type": "ui_form",
+        "z": "67991373.45438c",
+        "name": "",
+        "label": "Find lastname",
+        "group": "2ab5e690.46cd4a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Lastname",
+                "value": "lastname",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "lastname": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "x": 220,
+        "y": 620,
+        "wires": [
+            [
+                "56494ac4.c5af54"
+            ]
+        ]
+    },
+    {
+        "id": "56494ac4.c5af54",
+        "type": "function",
+        "z": "67991373.45438c",
+        "name": "",
+        "func": "var data = {};\ndata.theLastname = msg.payload.lastname;\ndata.limit = \"200\";\nmsg.payload = data;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 620,
+        "wires": [
+            [
+                "8645f55.b95ac08"
+            ]
+        ]
+    },
+    {
+        "id": "eb98f0eb.7c304",
+        "type": "ui_table",
+        "z": "67991373.45438c",
+        "group": "2ab5e690.46cd4a",
+        "name": "Users",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "columns": [
+            {
+                "field": "firstname",
+                "title": "Firstname",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "lastname",
+                "title": "Lastname",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "country",
+                "title": "Country",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 0,
+        "cts": false,
+        "x": 750,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "35be25d4.8c17a2",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Utoy Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336728/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 670,
+        "y": 320,
+        "wires": [
+            [
+                "8c270de8.b01df8"
+            ]
+        ]
+    },
+    {
+        "id": "2040d41.2f66e2c",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "90dcbd0b.35f9d",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "a6d6a03e.34221",
+        "type": "comment",
+        "z": "6ce9491a.789d9",
+        "name": "Find your water basin - https://waterdata.usgs.gov/blog/nldi-intro/",
+        "info": "",
+        "x": 390,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "7cdefc4.6f4b504",
+        "type": "comment",
+        "z": "6ce9491a.789d9",
+        "name": "Find your stream - USGS",
+        "info": "\nhttps://waterdata.usgs.gov/nwis/inventory?state_cd=nj&format=station_list&group_key=NONE&list_of_search_criteria=state_cd",
+        "x": 270,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "42f3effb.9a3c6",
+        "type": "comment",
+        "z": "6ce9491a.789d9",
+        "name": "Zip code boundaries for each of the 50 states",
+        "info": "Grab your town area map geojson from these\nmassive tables.\nhttps://github.com/OpenDataDE/State-zip-code-GeoJSON\n\nWould be cool if it looked like this:\nhttp://maps.huge.info/zip.htm",
+        "x": 330,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "d45120b4.469b68",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Gaborone Dam",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-building",
+        "oncolor": "maroon",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-building",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 220,
+        "y": 160,
+        "wires": [
+            [
+                "937a0ab7.cde62"
+            ]
+        ]
+    },
+    {
+        "id": "937a0ab7.cde62",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 160,
+        "wires": [
+            [
+                "a9c8ab1c.c15078"
+            ],
+            [
+                "ef9078c7.61643"
+            ]
+        ]
+    },
+    {
+        "id": "60523be4.38d6bc",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Notwane River",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "blue",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 200,
+        "y": 340,
+        "wires": [
+            [
+                "86d198fb.8b7898"
+            ]
+        ]
+    },
+    {
+        "id": "b55f66bc.a76998",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Tati River",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 12,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "salmon",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 140,
+        "y": 1680,
+        "wires": [
+            [
+                "377af107.f104be"
+            ]
+        ]
+    },
+    {
+        "id": "377af107.f104be",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1680,
+        "wires": [
+            [
+                "86fee6c8.e539d8",
+                "ee51f232.e5a1c8",
+                "e311283e.59a3b",
+                "e993daa0.72d8e",
+                "db409295.91482",
+                "2265eed3.0cf4ca"
+            ],
+            [
+                "3d8dc762.fe68e8"
+            ]
+        ]
+    },
+    {
+        "id": "86d198fb.8b7898",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 340,
+        "wires": [
+            [
+                "35be25d4.8c17a2",
+                "f6e9c333.7ff4b8"
+            ],
+            [
+                "f61b939d.b7c2"
+            ]
+        ]
+    },
+    {
+        "id": "ef9078c7.61643",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Quarry",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"name\":\"BellwoodQuarry\",\"deleted\":true}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 950,
+        "y": 180,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f61b939d.b7c2",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Utoy Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"UtoyCreekWaterBasin\",\"UtoyCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 360,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "3d8dc762.fe68e8",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide SFPeachTree Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"SF1PeachTreeCreekWaterBasin\",\"SF1PeachTreeCreek\",\"SF2PeachTreeCreekWaterBasin\",\"SF2PeachTreeCreek\",\"SF3PeachTreeCreekWaterBasin\",\"SF3PeachTreeCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 1700,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f169970.bc089e8",
+        "type": "inject",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 90,
+        "y": 80,
+        "wires": [
+            [
+                "d45120b4.469b68",
+                "60523be4.38d6bc",
+                "b55f66bc.a76998",
+                "b213fcbf.fb078",
+                "91b2b6b.a7de248",
+                "9cb4c8cc.028cd",
+                "7c82b014.138238",
+                "edb7d051.dd00a8",
+                "ba7a869.189eb78",
+                "eb62a172.f45208",
+                "11d6b94.bc866c7",
+                "cda05117.70ec08"
+            ]
+        ]
+    },
+    {
+        "id": "8c270de8.b01df8",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"blue\",\n    \"stroke-width\": 5,\n    \"fill\": \"#0000FF\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"UtoyCreekWaterBasin\",\n                layer:\"UtoyCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 320,
+        "wires": [
+            [
+                "2040d41.2f66e2c",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "5419c1a.6a27f4",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Utoy Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "UtoyCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "UtoyCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 280,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f6e9c333.7ff4b8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Utoy Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336728/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 630,
+        "y": 280,
+        "wires": [
+            [
+                "5419c1a.6a27f4"
+            ]
+        ]
+    },
+    {
+        "id": "a830630e.e78608",
+        "type": "ui_form",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "ZipCode - Water Quality Report",
+        "group": "fb63eae9.13c058",
+        "order": 13,
+        "width": 6,
+        "height": 1,
+        "options": [
+            {
+                "label": "Enter ZipCode",
+                "value": "zipcode",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "zipcode": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "",
+        "topicType": "str",
+        "splitLayout": false,
+        "x": 250,
+        "y": 2160,
+        "wires": [
+            [
+                "95c535ae.9c6f5",
+                "d6efc3c9.696d2"
+            ]
+        ]
+    },
+    {
+        "id": "cee87fe7.fa7888",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "GetWaterScore",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://aquagenuity.com/GetWaterScore",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 760,
+        "y": 2180,
+        "wires": [
+            [
+                "627a42af.dfe384",
+                "11f783df.ea156c",
+                "5fe26f4c.91512"
+            ]
+        ]
+    },
+    {
+        "id": "627a42af.dfe384",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 950,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "95c535ae.9c6f5",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Aquagenuity params",
+        "func": "msg.payload = {\"auth\":{\"username\":\"mmiOdUnVnHM9\",\n                       \"password\":\"EqTmKhtXu4ze\"},\n               \"zipcode\":msg.payload.ZipCode} ;\nmsg.headers = {};\nmsg.headers['Content-Type'] = 'application/json';\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 2180,
+        "wires": [
+            [
+                "cee87fe7.fa7888"
+            ]
+        ]
+    },
+    {
+        "id": "e2623a79.f2301",
+        "type": "inject",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"ZipCode\":\"07450\"}",
+        "payloadType": "json",
+        "x": 290,
+        "y": 2200,
+        "wires": [
+            [
+                "95c535ae.9c6f5"
+            ]
+        ]
+    },
+    {
+        "id": "11f783df.ea156c",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "WaterScore",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.waterscore[0]",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "Water Report",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.lat",
+                "pt": "msg",
+                "to": "40.979671",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.lon",
+                "pt": "msg",
+                "to": "-74.119179",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.icon",
+                "pt": "msg",
+                "to": "fa-tint",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.iconColor",
+                "pt": "msg",
+                "to": "blue",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 2140,
+        "wires": [
+            [
+                "484b28c3.7ec138",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "5fe26f4c.91512",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Contaminants",
+        "func": "var toxins = msg.payload.contaminantDetails;\n\n// Highlight toxins that exceed EPA limits\nfor( var i=0; i < toxins.length; i++) {\n    if( parseFloat(toxins[i].sample_amount) > parseFloat(toxins[i].toxin_limit_value) ) {\n        toxins[i].toxin_type_name = \"<font color='red'><b>\"+toxins[i].toxin_type_name+\"</b></font>\";\n        toxins[i].sample_amount = \"<font color='red'><b>\"+toxins[i].sample_amount+\"</b></font>\";\n    }\n}\nmsg.payload = toxins;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 980,
+        "y": 2180,
+        "wires": [
+            [
+                "b831ce15.09448"
+            ]
+        ]
+    },
+    {
+        "id": "484b28c3.7ec138",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1210,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "121611ef.a964f6",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Health Risk details",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.health_risk_type_description",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Health Risk",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1230,
+        "y": 2220,
+        "wires": [
+            [
+                "611110ae.4d8398"
+            ]
+        ]
+    },
+    {
+        "id": "611110ae.4d8398",
+        "type": "ui_toast",
+        "z": "6ce9491a.789d9",
+        "position": "dialog",
+        "displayTime": "10",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 1210,
+        "y": 2260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d6efc3c9.696d2",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Reset Water Report",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"name\":\"Water Report\",\"deleted\":true}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 2100,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "d8d571.bcbf3a9",
+        "type": "inject",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 660,
+        "y": 2100,
+        "wires": [
+            [
+                "d6efc3c9.696d2"
+            ]
+        ]
+    },
+    {
+        "id": "780b13c3.1af2d4",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Internchment creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02203700/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 710,
+        "y": 1960,
+        "wires": [
+            [
+                "b9432ae1.37b59"
+            ]
+        ]
+    },
+    {
+        "id": "b9432ae1.37b59",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"orange\",\n    \"stroke-width\": 5,\n    \"fill\": \"orange\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"SugarCreekWaterBasin\",\n                layer:\"SugarCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1000,
+        "y": 1960,
+        "wires": [
+            [
+                "db8ea075.1e9b28",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "db8ea075.1e9b28",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1290,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "b213fcbf.fb078",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Lotsane River",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "orange",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 180,
+        "y": 1980,
+        "wires": [
+            [
+                "cca5eee.406ac9"
+            ]
+        ]
+    },
+    {
+        "id": "cca5eee.406ac9",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 470,
+        "y": 1980,
+        "wires": [
+            [
+                "780b13c3.1af2d4",
+                "62dab92c.7d9ae8"
+            ],
+            [
+                "f96c4450.ff18f"
+            ]
+        ]
+    },
+    {
+        "id": "f96c4450.ff18f",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Sugar Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"SugarCreekWaterBasin\",\"SugarCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 2000,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "840d8f18.7fa7c8",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Sugar Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "SugarCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "SugarCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 1920,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "62dab92c.7d9ae8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Internchment Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02203700/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 680,
+        "y": 1920,
+        "wires": [
+            [
+                "840d8f18.7fa7c8"
+            ]
+        ]
+    },
+    {
+        "id": "356f9a6a.eff6c6",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Proctor creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336526/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 670,
+        "y": 1820,
+        "wires": [
+            [
+                "7ccf6905.378818"
+            ]
+        ]
+    },
+    {
+        "id": "7ccf6905.378818",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"aqua\",\n    \"stroke-width\": 5,\n    \"fill\": \"aqua\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"ProctorCreekWaterBasin\",\n                layer:\"ProctorCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1820,
+        "wires": [
+            [
+                "13133d09.1d729b",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "13133d09.1d729b",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1820,
+        "wires": []
+    },
+    {
+        "id": "91b2b6b.a7de248",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Dikgatlhong Dam",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "aqua",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 170,
+        "y": 1840,
+        "wires": [
+            [
+                "7fb4ab56.db71ac"
+            ]
+        ]
+    },
+    {
+        "id": "7fb4ab56.db71ac",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1840,
+        "wires": [
+            [
+                "356f9a6a.eff6c6",
+                "f5f87a15.42de18"
+            ],
+            [
+                "c22312b0.a555a"
+            ]
+        ]
+    },
+    {
+        "id": "c22312b0.a555a",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Proctor Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"ProctorCreekWaterBasin\",\"ProctorCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 1860,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f642dd0.30fbaa",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Proctor Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "ProctorCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "ProctorCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 1780,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f5f87a15.42de18",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Proctor Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336526/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 640,
+        "y": 1780,
+        "wires": [
+            [
+                "f642dd0.30fbaa"
+            ]
+        ]
+    },
+    {
+        "id": "e7c6ee6a.88c708",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS NF PeachTree Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336120/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 700,
+        "y": 1080,
+        "wires": [
+            [
+                "84e750a0.e2879"
+            ]
+        ]
+    },
+    {
+        "id": "84e750a0.e2879",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"yellow\",\n    \"stroke-width\": 5,\n    \"fill\": \"yellow\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"NFPeachTreeCreekWaterBasin\",\n                layer:\"NFPeachTreeCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1080,
+        "wires": [
+            [
+                "d1407f3e.91cb38",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "d1407f3e.91cb38",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "9cb4c8cc.028cd",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Bokaa Dam",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "yellow",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 150,
+        "y": 1100,
+        "wires": [
+            [
+                "6cf9d803.7f7ca8"
+            ]
+        ]
+    },
+    {
+        "id": "6cf9d803.7f7ca8",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1100,
+        "wires": [
+            [
+                "e7c6ee6a.88c708",
+                "35c9ffde.284b3"
+            ],
+            [
+                "3803f32e.3f6a34"
+            ]
+        ]
+    },
+    {
+        "id": "3803f32e.3f6a34",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide NFPeachTree Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"NFPeachTreeCreekWaterBasin\",\"NFPeachTreeCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 1120,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "d4ea64bd.20646",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw NF PeachTree Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "NFPeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "NFPeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 1040,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "35c9ffde.284b3",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS NF PeachTree Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336120/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 660,
+        "y": 1040,
+        "wires": [
+            [
+                "d4ea64bd.20646"
+            ]
+        ]
+    },
+    {
+        "id": "86fee6c8.e539d8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS SF2 PeachTree Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-023362075/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 700,
+        "y": 1580,
+        "wires": [
+            [
+                "8b8692b8.a6f2a8"
+            ]
+        ]
+    },
+    {
+        "id": "8b8692b8.a6f2a8",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"salmon\",\n    \"stroke-width\": 5,\n    \"fill\": \"salmon\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"SF2PeachTreeCreekWaterBasin\",\n                layer:\"SF2PeachTreeCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1580,
+        "wires": [
+            [
+                "a9c0ed58.fd66f",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "a9c0ed58.fd66f",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1580,
+        "wires": []
+    },
+    {
+        "id": "3b22dd6e.3cc87a",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw SFPeachTree Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "SF2PeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "SF2PeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 1540,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "ee51f232.e5a1c8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS SF2 PeachTree Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-023362075/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 660,
+        "y": 1540,
+        "wires": [
+            [
+                "3b22dd6e.3cc87a"
+            ]
+        ]
+    },
+    {
+        "id": "e311283e.59a3b",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS SF1 PeachTree Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336152/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 700,
+        "y": 1500,
+        "wires": [
+            [
+                "a2d5762b.9602b"
+            ]
+        ]
+    },
+    {
+        "id": "a2d5762b.9602b",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"salmon\",\n    \"stroke-width\": 5,\n    \"fill\": \"salmon\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"SF1PeachTreeCreekWaterBasin\",\n                layer:\"SF1PeachTreeCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1500,
+        "wires": [
+            [
+                "deaed5dc.af2ac",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "deaed5dc.af2ac",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "281d18e8.d09928",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw SFPeachTree Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "SF1PeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "SF1PeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 1460,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "e993daa0.72d8e",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS SF1 PeachTree Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336152/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 660,
+        "y": 1460,
+        "wires": [
+            [
+                "281d18e8.d09928"
+            ]
+        ]
+    },
+    {
+        "id": "db409295.91482",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS SF3 PeachTree Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336240/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 700,
+        "y": 1660,
+        "wires": [
+            [
+                "fc23025.2cce08"
+            ]
+        ]
+    },
+    {
+        "id": "fc23025.2cce08",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"salmon\",\n    \"stroke-width\": 5,\n    \"fill\": \"salmon\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"SF3PeachTreeCreekWaterBasin\",\n                layer:\"SF3PeachTreeCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1660,
+        "wires": [
+            [
+                "d91f0517.8b1aa8",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "d91f0517.8b1aa8",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "922da9f8.5f3e38",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw SFPeachTree Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "SF3PeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "SF3PeachTreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 1620,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "2265eed3.0cf4ca",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS SF3 PeachTree Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336240/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 660,
+        "y": 1620,
+        "wires": [
+            [
+                "922da9f8.5f3e38"
+            ]
+        ]
+    },
+    {
+        "id": "7c82b014.138238",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Ntimbale Dam ",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "firebrick",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 160,
+        "y": 1380,
+        "wires": [
+            [
+                "71882bdc.65ad74"
+            ]
+        ]
+    },
+    {
+        "id": "71882bdc.65ad74",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1380,
+        "wires": [
+            [
+                "b0be0bc2.a6e5a8",
+                "907a30af.59bca"
+            ],
+            [
+                "e0715753.950e1"
+            ]
+        ]
+    },
+    {
+        "id": "e0715753.950e1",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Nancy Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"NancyCreekWaterBasin\",\"NancyCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 1400,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "b0be0bc2.a6e5a8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Nancy Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336410/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 670,
+        "y": 1360,
+        "wires": [
+            [
+                "4a0483c7.342f74"
+            ]
+        ]
+    },
+    {
+        "id": "4a0483c7.342f74",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"firebrick\",\n    \"stroke-width\": 5,\n    \"fill\": \"firebrick\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"NancyCreekWaterBasin\",\n                layer:\"NancyCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1360,
+        "wires": [
+            [
+                "bb7a2051.9b645",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "bb7a2051.9b645",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "8cc5b572.bb8988",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Nancy Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "NancyCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "NancyCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 1320,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "907a30af.59bca",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Nancy Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336410/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 640,
+        "y": 1320,
+        "wires": [
+            [
+                "8cc5b572.bb8988"
+            ]
+        ]
+    },
+    {
+        "id": "edb7d051.dd00a8",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Metsimotlhabe River",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "orchid",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 180,
+        "y": 1240,
+        "wires": [
+            [
+                "3b989de9.db2342"
+            ]
+        ]
+    },
+    {
+        "id": "3b989de9.db2342",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1240,
+        "wires": [
+            [
+                "3990c918.716fc6",
+                "419b97b7.d36098"
+            ],
+            [
+                "77ab0fa0.5fa768"
+            ]
+        ]
+    },
+    {
+        "id": "77ab0fa0.5fa768",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Long Island Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"LongIslandCreekWaterBasin\",\"LongIslandCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 1260,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "3990c918.716fc6",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Long Island Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02335880/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 690,
+        "y": 1220,
+        "wires": [
+            [
+                "126a3baf.4ec114"
+            ]
+        ]
+    },
+    {
+        "id": "126a3baf.4ec114",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"orchid\",\n    \"stroke-width\": 5,\n    \"fill\": \"orchid\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"LongIslandCreekWaterBasin\",\n                layer:\"LongIslandCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 1220,
+        "wires": [
+            [
+                "6c7d680c.bd0d68",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "6c7d680c.bd0d68",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 1220,
+        "wires": []
+    },
+    {
+        "id": "afa4617c.c16cc",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Long Island Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "LongIslandCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "LongIslandCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 1180,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "419b97b7.d36098",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Long Island Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02335880/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 650,
+        "y": 1180,
+        "wires": [
+            [
+                "afa4617c.c16cc"
+            ]
+        ]
+    },
+    {
+        "id": "a9c8ab1c.c15078",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Quarry",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "BellwoodQuarry",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.lat",
+                "pt": "msg",
+                "to": "33.7698857",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.lon",
+                "pt": "msg",
+                "to": "-84.5551718",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.icon",
+                "pt": "msg",
+                "to": "fa-tint",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.iconColor",
+                "pt": "msg",
+                "to": "blue",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 930,
+        "y": 140,
+        "wires": [
+            [
+                "90dcbd0b.35f9d",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "447bf88b.6c91e8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS South River water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02203603/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 670,
+        "y": 940,
+        "wires": [
+            [
+                "cde39a17.efd268"
+            ]
+        ]
+    },
+    {
+        "id": "cde39a17.efd268",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"limegreen\",\n    \"stroke-width\": 5,\n    \"fill\": \"limegreen\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"SouthRiverWaterBasin\",\n                layer:\"SouthRiverWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 940,
+        "wires": [
+            [
+                "cc660dd3.189c38",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "cc660dd3.189c38",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "ba7a869.189eb78",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Motloutse River",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "limegreen",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 160,
+        "y": 960,
+        "wires": [
+            [
+                "69fc41bc.b32a8"
+            ]
+        ]
+    },
+    {
+        "id": "69fc41bc.b32a8",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 960,
+        "wires": [
+            [
+                "447bf88b.6c91e8",
+                "9ac64d87.90cf28"
+            ],
+            [
+                "9427d18f.373a88"
+            ]
+        ]
+    },
+    {
+        "id": "9427d18f.373a88",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide South River Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"SouthRiverWaterBasin\",\"SouthRiver\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 980,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "76ad4585.e50a44",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw South River",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "SouthRiver",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "SouthRiver",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 900,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "9ac64d87.90cf28",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS South River",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02203603/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 630,
+        "y": 900,
+        "wires": [
+            [
+                "76ad4585.e50a44"
+            ]
+        ]
+    },
+    {
+        "id": "a1479697.3267",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Camp Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02344280/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 670,
+        "y": 808,
+        "wires": [
+            [
+                "46a8192f.de2b5"
+            ]
+        ]
+    },
+    {
+        "id": "46a8192f.de2b5",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"maroon\",\n    \"stroke-width\": 5,\n    \"fill\": \"maroon\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"Camp2CreekWaterBasin\",\n                layer:\"Camp2CreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 808,
+        "wires": [
+            [
+                "db730192.30fff8",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "db730192.30fff8",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 808,
+        "wires": []
+    },
+    {
+        "id": "eb62a172.f45208",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Letsibogo Dam",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "maroon",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 160,
+        "y": 828,
+        "wires": [
+            [
+                "55c7af4d.0d4a4"
+            ]
+        ]
+    },
+    {
+        "id": "55c7af4d.0d4a4",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 828,
+        "wires": [
+            [
+                "a1479697.3267",
+                "1a87db22.46874d",
+                "b9f43abe.8eddc8",
+                "6d18f39.f470c0c"
+            ],
+            [
+                "a4e8ed96.1673f8"
+            ]
+        ]
+    },
+    {
+        "id": "a4e8ed96.1673f8",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Camp Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"Camp1CreekWaterBasin\",\"Camp1Creek\",\"Camp2CreekWaterBasin\",\"Camp2Creek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 848,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f4d1210f.850b2",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Camp2 Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "Camp2Creek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "Camp2Creek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 768,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "1a87db22.46874d",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Camp Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02344280/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 630,
+        "y": 768,
+        "wires": [
+            [
+                "f4d1210f.850b2"
+            ]
+        ]
+    },
+    {
+        "id": "b9f43abe.8eddc8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Camp1 Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02344327/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 680,
+        "y": 720,
+        "wires": [
+            [
+                "d463fc42.68253"
+            ]
+        ]
+    },
+    {
+        "id": "d463fc42.68253",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"maroon\",\n    \"stroke-width\": 5,\n    \"fill\": \"maroon\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"Camp1CreekWaterBasin\",\n                layer:\"Camp1CreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 720,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "fbc2936b.6e195",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Camp1 Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "Camp1Creek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "Camp1Creek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 680,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "6d18f39.f470c0c",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Camp1 Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02344327/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 640,
+        "y": 680,
+        "wires": [
+            [
+                "fbc2936b.6e195"
+            ]
+        ]
+    },
+    {
+        "id": "e2aaecf4.ba1d4",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Flint River water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02344350/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 660,
+        "y": 600,
+        "wires": [
+            [
+                "9d511e34.a57b08"
+            ]
+        ]
+    },
+    {
+        "id": "9d511e34.a57b08",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"peru\",\n    \"stroke-width\": 5,\n    \"fill\": \"peru\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"FlintRiverWaterBasin\",\n                layer:\"FlintRiverWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 600,
+        "wires": [
+            [
+                "455a161b.5d68a",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "455a161b.5d68a",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "11d6b94.bc866c7",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Shashe River",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "peru",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 150,
+        "y": 620,
+        "wires": [
+            [
+                "b1003e18.3e7fd8"
+            ]
+        ]
+    },
+    {
+        "id": "b1003e18.3e7fd8",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 620,
+        "wires": [
+            [
+                "e2aaecf4.ba1d4",
+                "b4f778b3.1508e"
+            ],
+            [
+                "8af1911a.0e0a58"
+            ]
+        ]
+    },
+    {
+        "id": "8af1911a.0e0a58",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Flint River Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"FlintRiverWaterBasin\",\"FlintRiver\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 640,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "ce95b6e3.a20678",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Flint River",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "FlintRiver",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "FlintRiver",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 960,
+        "y": 560,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "b4f778b3.1508e",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Flint River",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02344350/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 630,
+        "y": 560,
+        "wires": [
+            [
+                "ce95b6e3.a20678"
+            ]
+        ]
+    },
+    {
+        "id": "fa0eeb2d.0d1d1",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://streamstats.usgs.gov/streamstatsservices/watershed.geojson?rcode=GA&xlocation=-84.5508762&ylocation=33.8543487&crs=4326&includeparameters=false&includeflowtypes=false&includefeatures=true&simplify=true",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 670,
+        "y": 2460,
+        "wires": [
+            [
+                "b938a161.62b038",
+                "c24f85ca.87592"
+            ]
+        ]
+    },
+    {
+        "id": "bce0f2ab.9a5ae",
+        "type": "inject",
+        "z": "6ce9491a.789d9",
+        "name": "StreamStat test",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 480,
+        "y": 2460,
+        "wires": [
+            [
+                "fa0eeb2d.0d1d1"
+            ]
+        ]
+    },
+    {
+        "id": "c24f85ca.87592",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1010,
+        "y": 2500,
+        "wires": []
+    },
+    {
+        "id": "b938a161.62b038",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"orange\",\n    \"stroke-width\": 5,\n    \"fill\": \"orange\",\n    \"fill-opacity\": 0.4\n}\nmsg.payload.featurecollection[1].feature.features[0].properties = properties;\ndelete msg.payload.featurecollection[1].feature.crs\ndelete msg.payload.featurecollection[1].feature.features[0].bbox\n\nmsg.payload = { name: \"SmyrnaWaterBasin\",\n                layer:\"SmyrnaWaterBasin\",\n                geojson:msg.payload.featurecollection[1].feature\n              };\n              \ndelete msg.payload.geojson.features[0].geometry.coordinates[1];\ndelete msg.payload.geojson.features[0].geometry.coordinates[2];\ndelete msg.payload.geojson.features[0].geometry.coordinates[3];  \ndelete msg.payload.geojson.features[0].geometry.coordinates[4];  \ndelete msg.payload.geojson.features[0].geometry.coordinates[5];  \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 990,
+        "y": 2460,
+        "wires": [
+            [
+                "f9140be1.e032c8",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "f9140be1.e032c8",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1210,
+        "y": 2460,
+        "wires": []
+    },
+    {
+        "id": "7395ac0e.70f6fc",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Peachtree Creek water basin",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336300/basin",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 690,
+        "y": 480,
+        "wires": [
+            [
+                "e65e8787.e192c8"
+            ]
+        ]
+    },
+    {
+        "id": "e65e8787.e192c8",
+        "type": "function",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Water Basin map",
+        "func": "// Add some simple-spec styling to this polygon area\nvar properties = { \n    \"stroke\" : \"darkviolet\",\n    \"stroke-width\": 5,\n    \"fill\": \"darkviolet\",\n    \"fill-opacity\": 0.4\n};\nmsg.payload.features[0].properties = properties;\n\nmsg.payload = { name: \"PeachtreeCreekWaterBasin\",\n                layer:\"PeachtreeCreekWaterBasin\",\n                geojson:msg.payload\n              };    \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 980,
+        "y": 480,
+        "wires": [
+            [
+                "78bffc78.a5c0ec",
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "78bffc78.a5c0ec",
+        "type": "debug",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 1290,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "cda05117.70ec08",
+        "type": "ui_switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "label": "Show Shashe Dam",
+        "tooltip": "",
+        "group": "fb63eae9.13c058",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "topicType": "str",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "fa-tint",
+        "oncolor": "darkviolet",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "fa-tint",
+        "offcolor": "grey",
+        "animate": true,
+        "x": 150,
+        "y": 500,
+        "wires": [
+            [
+                "9b649bcf.db797"
+            ]
+        ]
+    },
+    {
+        "id": "9b649bcf.db797",
+        "type": "switch",
+        "z": "6ce9491a.789d9",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 500,
+        "wires": [
+            [
+                "7395ac0e.70f6fc",
+                "d9fcdae5.d2c0c8"
+            ],
+            [
+                "4aa6ae5b.1e7578"
+            ]
+        ]
+    },
+    {
+        "id": "4aa6ae5b.1e7578",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Hide Peachtree Creek Water Basin",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":{\"hidelayer\":[\"PeachtreeCreekWaterBasin\",\"PeachtreeCreek\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1020,
+        "y": 520,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "b5c3e327.703b7",
+        "type": "change",
+        "z": "6ce9491a.789d9",
+        "name": "Draw Peachtree Creek",
+        "rules": [
+            {
+                "t": "move",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.geojson",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.layer",
+                "pt": "msg",
+                "to": "PeachtreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.name",
+                "pt": "msg",
+                "to": "PeachtreeCreek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.color",
+                "pt": "msg",
+                "to": "steelblue",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload.weight",
+                "pt": "msg",
+                "to": "3",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 440,
+        "wires": [
+            [
+                "95a0817.07e77"
+            ]
+        ]
+    },
+    {
+        "id": "d9fcdae5.d2c0c8",
+        "type": "http request",
+        "z": "6ce9491a.789d9",
+        "name": "USGS Peachtree Creek",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://labs.waterdata.usgs.gov/api/nldi/linked-data/nwissite/USGS-02336300/navigate/UT",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 650,
+        "y": 440,
+        "wires": [
+            [
+                "b5c3e327.703b7"
+            ]
+        ]
+    },
+    {
+        "id": "597472df.75efd4",
+        "type": "comment",
+        "z": "6ce9491a.789d9",
+        "name": "Initialize the map legend to off",
+        "info": "",
+        "x": 140,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "b831ce15.09448",
+        "type": "ui_table",
+        "z": "6ce9491a.789d9",
+        "group": "d1237508.f6f1f8",
+        "name": "Contaminants",
+        "order": 1,
+        "width": 10,
+        "height": 10,
+        "columns": [
+            {
+                "field": "toxin_type_name",
+                "title": "Toxin",
+                "width": "20%",
+                "align": "left",
+                "formatter": "html",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "sample_amount",
+                "title": "Sample",
+                "width": "15%",
+                "align": "left",
+                "formatter": "html",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "toxin_limit_value",
+                "title": "EPA Limit",
+                "width": "20%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "toxin_limit_unit",
+                "title": "Toxin Units",
+                "width": "10%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "health_risk_type_description",
+                "title": "Health Risk",
+                "width": "35%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 1,
+        "cts": true,
+        "x": 1220,
+        "y": 2180,
+        "wires": [
+            [
+                "121611ef.a964f6"
+            ]
+        ]
+    },
+    {
+        "id": "95a0817.07e77",
+        "type": "ui_worldmap",
+        "z": "6ce9491a.789d9",
+        "group": "cbfa935f.551c9",
+        "order": 1,
+        "width": 12,
+        "height": 15,
+        "name": "",
+        "lat": "22",
+        "lon": "24",
+        "zoom": "11",
+        "layer": "OSM",
+        "cluster": "",
+        "maxage": "",
+        "usermenu": "hide",
+        "layers": "show",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "true",
+        "coords": "none",
+        "showgrid": "false",
+        "path": "/gawatermap",
+        "x": 1290,
+        "y": 400,
+        "wires": []
+    }
+]
